@@ -1,16 +1,2 @@
-# app4
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Task SQLite Flutter App
+La presente aplicación posee funcionalidades para el manejo de tareas a un nivel básico en relación a las operaciones escenciales de un CRUD, que en este caso tendría a SQLite como base de datos, siendo manejada a traves de las herramientas dadas por flutter tecnología con la cual también estaría construida la misma aplicación.
